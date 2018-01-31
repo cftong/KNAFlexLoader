@@ -1,6 +1,5 @@
-THEOS_DEVICE_IP = 192.168.2.125
-THEOS_DEVICE_PORT = 22
-
+THEOS_DEVICE_IP = usb2222
+# THEOS_DEVICE_PORT = 22
 export ARCHS = arm64 armv7
 export TARGET = iphone:clang:latest:8.0
 export DEBUG = 0

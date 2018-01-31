@@ -18,3 +18,4 @@ dpkg: dependency problems prevent configuration of org.swiftc.aflexloader:
   Package applist is not installed.
 
 在管理——软件源——Bigboss里找到preferenceloader，这是Cydia的依赖包，安装就可以。
+/Users/devzkn/code/other/AFlexLoader-master
